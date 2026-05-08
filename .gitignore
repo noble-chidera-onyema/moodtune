@@ -1,0 +1,42 @@
+# Secrets — NEVER commit
+.env
+.env.local
+*.env
+.env.*
+
+# Participant data — GDPR protected
+test_results.csv
+session_save.json
+moodtune_results.csv
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
