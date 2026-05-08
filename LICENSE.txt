@@ -1,0 +1,33 @@
+MoodTune — Persuasive AI Music Advisor
+Copyright (c) 2026 Noble Chidera Onyema. All Rights Reserved.
+
+This source code and all associated files in this repository are the
+intellectual property of Noble Chidera Onyema, submitted as part of the
+MSc Applied Artificial Intelligence and User Experience programme at
+Abertay University, Dundee, Scotland (2025-2026).
+
+This repository is published publicly for the sole purpose of academic
+portfolio review by prospective employers, recruiters, academic
+collaborators, and the wider technical community.
+
+PERMITTED:
+  - Viewing and reading the source code
+  - Cloning the repository for personal, non-commercial review
+  - Citing this work in academic contexts with full attribution
+    (Onyema, N. C. (2026). MoodTune: A Persuasive AI Music Advisor.
+    MSc thesis artefact, Abertay University.)
+
+NOT PERMITTED WITHOUT WRITTEN PERMISSION FROM THE AUTHOR:
+  - Reproducing, modifying, redistributing, or republishing the code
+  - Using any part of the code in commercial products or services
+  - Using the experimental design or research methodology in any
+    research, publication, or commercial study
+  - Creating derivative works based on the code, design, or methodology
+  - Removing or altering this copyright notice
+
+For permissions, collaboration, or licensing enquiries, contact:
+Noble Chidera Onyema  ·  onyemanoble1628@gmail.com
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
