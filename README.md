@@ -86,7 +86,7 @@ The Regular condition deliberately strips all of the above to create a clean ind
 
 1. Clone:
 ```bash
-   git clone https://github.com/noble-onyema/moodtune.git
+   git clone https://github.com/noble-chidera-onyema/moodtune.git
    cd moodtune
 ```
 2. Virtual environment:
