@@ -25,12 +25,12 @@ recommender?**
 
 A six-step within-subject experiment, randomised at consent:
 
-1. **Consent** — full GDPR-compliant participant information sheet
-2. **Pre-test** — demographics, baseline mood / focus / stress
-3. **Mood induction** — Velten (1968) statements paired with calibrated calm imagery (Russell's Circumplex Model, 1980)
-4. **Chatbot interaction** — randomised to **Regular** or **Persuasive** condition
-5. **Post-test** — mood / focus / stress, enjoyment, trust, usability, intention to use, manipulation check
-6. **Debrief** — full experimental disclosure plus a feel-good restoration playlist
+1. **Consent** - full GDPR-compliant participant information sheet
+2. **Pre-test** - demographics, baseline mood / focus / stress
+3. **Mood induction** - Velten (1968) statements paired with calibrated calm imagery (Russell's Circumplex Model, 1980)
+4. **Chatbot interaction** - randomised to **Regular** or **Persuasive** condition
+5. **Post-test** - mood / focus / stress, enjoyment, trust, usability, intention to use, manipulation check
+6. **Debrief** - full experimental disclosure plus a feel-good restoration playlist
 
 Withdrawal is available on every screen via a persistent visible
 button (BPS Code of Ethics 2021; GDPR Article 7(3)).
@@ -56,17 +56,17 @@ button (BPS Code of Ethics 2021; GDPR Article 7(3)).
 
 Every UX choice maps to a published source:
 
-- **Dark theme + purple accent** — Bonnardel et al. (2011): music apps with dark UI score higher on perceived quality
-- **Step progress indicator** — Tuch et al. (2009): users feel in control and less anxious in multi-step processes
-- **Card-based layout** — Nielsen Heuristic #6: Recognition over Recall
+- **Dark theme + purple accent** - Bonnardel et al. (2011): music apps with dark UI score higher on perceived quality
+- **Step progress indicator** - Tuch et al. (2009): users feel in control and less anxious in multi-step processes
+- **Card-based layout** - Nielsen Heuristic #6: Recognition over Recall
 - **Audio-feature transparency bars** — Nielsen Heuristic #1: Visibility of System Status
-- **Co-equal image-and-text mood induction** — Rottenberg, Ray & Gross (2007): neither stimulus dominates
+- **Co-equal image-and-text mood induction** - Rottenberg, Ray & Gross (2007): neither stimulus dominates
 
 ## Persuasion theory
 
 The Persuasive condition operationalises:
 
-- **Cialdini (1984) — Six Principles of Influence:** Liking, Social Proof, Authority
+- **Cialdini (1984) - Six Principles of Influence:** Liking, Social Proof, Authority
 - **Fogg Behaviour Model (2009):** Persuasion = Motivation × Ability × Trigger
 
 The Regular condition deliberately strips all of the above to create a clean independent-variable contrast.
