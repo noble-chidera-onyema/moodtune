@@ -1,4 +1,4 @@
-# MoodTune — Persuasive AI Music Advisor
+# MoodTune - Persuasive AI Music Advisor
 
 A web-based AI chatbot that recommends mood-appropriate music to
 university students, comparing **persuasive** versus **neutral**
